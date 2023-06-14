@@ -12,6 +12,8 @@ In questo repository sono presenti:
 * Dataset usati sotto forma di `.csv` e `.json`
 * Jupyter Notebook per produrre i grafici, usando Python e Matplotlib principalmente
 
+Stile grafico ispirato da Peter McKeever e Son of a Corner
+
 ## Autori del progetto
 * Vincenzo Siano
 * Emanuele Manca
